@@ -1,5 +1,3 @@
-package srivar;
-
 public interface List<E> {
 	public abstract int size();
 	public abstract void addFirst(E element);
