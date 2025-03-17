@@ -1,5 +1,3 @@
-package srivar;
-
 public class DynamicList<E> extends ArrayList<E>{
 	private int capacity;
 	
